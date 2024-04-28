@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhiEddinTahhan
-- 👀 I’m interested in computer science at Bishop's University
+- 👀 I’m interested in cybersecurity, game development, and programming for fun
 - 🌱 I’m currently learning game development, cybersecurity and pentesting
 - 📫 How to reach me: email: mdtgonow2@gmail.com, mtahhan19@ubishops.ca
 
